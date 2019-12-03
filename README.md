@@ -2,6 +2,13 @@
 
 ## List of complete commands to manually compile and install all libraries and dependencies for your Scrypta wallet on Raspberry PI4
 
+Following you will find the complete workaround with all commands to manually compile and install all libraries and dependencies for your Scrypta wallet on Raspberry PI4.
+Alternatively you can follow the guide for the installation of the Scrypta OS image file for your Raspberry PI4
+https://github.com/scryptachain/scrypta-os/blob/master/imagefile_guide.md
+
+
+For a step-by-step manual installation, proceed opening terminal and give the following commands.
+
 ```
 sudo apt-get update && sudo apt-get upgrade 
 ```
