@@ -17,4 +17,4 @@ You can burn the file image on your SD card following our installation guide.
 <li>Review your selections and click 'Flash!' to begin writing data to the SD card.</li>
 </ul>
 <p>Wait until the process is complete, then insert the SD Card to the Raspberry PI4.</p>
-<p>Please note: for users security reasons, the wallet installed on your system come without <code>wallet.dat</code> file to ensure users that nobody have private keys of your wallet. The <code>wallet.dat</code> file wil be generated when you launch the wallet fo<p><strong>Please note:</strong> for users security reasons, the wallet installed on your system come without <code>wallet.dat</code> file to ensure users that nobody have private keys of your wallet. <br />The <code>wallet.dat</code> file wil be generated when you launch the wallet for the first time.</p>
+<p>Please note: for users security reasons, the wallet installed on your system come without <code>wallet.dat</code> file to ensure users that nobody have private keys of your wallet. The <code>wallet.dat</code> file wil be generated when you launch the wallet for the first time</p>
