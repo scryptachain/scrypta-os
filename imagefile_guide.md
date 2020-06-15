@@ -6,7 +6,7 @@ You can burn the file image on your SD card following our installation guide.
 
 <p>This resource explains how to install a Raspberry Pi operating system image on an SD card. <br />You will need another computer with an SD card reader to install the image.</p>
 <h2>Download the image and write it to your SD card</h2>
-<p>Scrypta official image file is available to download from the <a href="https://scryptachain.org/wallet/scryptaOS_rasp_1.1.0.img">Scrypta official server</a>.</p>
+<p>Scrypta official image file is available to download from the <a href="https://scrypta.sfo2.digitaloceanspaces.com/scryptaOS_rasp_1.1.0.img">Scrypta Space</a>.</p>
 <p>You will need to use an image writing tool to install the image you have downloaded on your SD card.</p>
 <p><strong>balenaEtcher</strong>&nbsp;is a graphical SD card writing tool that works on Mac OS, Linux and Windows, and is the easiest option for most users. balenaEtcher also supports writing images directly from the zip file, without any unzipping required. To write your image with balenaEtcher:</p>
 <ul>
