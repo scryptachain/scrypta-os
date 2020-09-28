@@ -33,7 +33,7 @@ sudo add-apt-repository -y ppa:bitcoin/bitcoin
 ```
 sudo apt-get -y install build-essential autoconf automake libtool libboost-all-dev libboost-program-options-dev libssl1.0-dev
 sudo apt-get -y install libleveldb-dev libgmp-dev libgmp3-dev libcurl4-openssl-dev libcrypto++-dev libqrencode-dev
-sudo apt-get -y libminiupnpc-dev autogen libtool libevent-dev libprotobuf-dev protobuf-compiler
+sudo apt-get -y install libminiupnpc-dev autogen libtool libevent-dev libprotobuf-dev protobuf-compiler
 sudo apt-get -y install curl g++ git git-core faketime bsdmainutils mingw-w64 g++-mingw-w64 nsis zip ca-certificates python
 sudo apt-get -y install libgmp-dev libssl-dev libcurl4-openssl-dev
 sudo apt-get -y install qtbase5-dev libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libzmq3-dev
